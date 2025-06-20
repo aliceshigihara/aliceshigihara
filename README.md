@@ -1,3 +1,7 @@
+<p width="50">
+    ABOUT ME
+    <p/>
+
 <p align="left">
     📢 Hey, welcome to my git! You can find all of my codes & university's projects here.
     **📋 Currently a Computer Science student at Instituto Federal Catarinense;**
