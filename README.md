@@ -13,17 +13,17 @@
 
 [![Skills/Learning](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
-## IDEs:
-
-[![Skills/Learning](https://skillicons.dev/icons?i=clion,idea,pycharm,vscode)](https://skillicons.dev)
-
 <table>
     <tr>
         <td>
             <img
-            align="right"
+            align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceshigihara&languages=python,c,java&theme=dark"
             alt="Github Stats"
           />
      </td>
     <td>
+
+## IDEs:
+
+[![Skills/Learning](https://skillicons.dev/icons?i=clion,idea,pycharm,vscode)](https://skillicons.dev)
