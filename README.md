@@ -9,10 +9,6 @@
 
 # SKILLS
 
-## Languages (skills/learning):
-
-[![Skills/Learning](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
-
 <table>
     <tr>
         <td>
@@ -23,6 +19,10 @@
           />
      </td>
     <td>
+
+## Languages (skills/learning):
+
+[![Skills/Learning](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
 ## IDEs:
 
