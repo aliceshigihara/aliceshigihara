@@ -1,5 +1,5 @@
-<p width="50">
-    ABOUT ME
+<p width="80">
+    **ABOUT ME**
     <p/>
 
 <p align="left">
