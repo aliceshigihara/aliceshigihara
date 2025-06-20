@@ -5,6 +5,8 @@
 
 ## 📬 Where you can find me:
 
+[![Skills/Learning](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) aliceshigihara@gmail.com
+
 # SKILLS
 
 ## Languages (skills/learning):
@@ -17,7 +19,7 @@
 
 ## Others:
 
-[![Skills](https://skillicons.dev/icons?1=githubactions,notion)](https://skillicons,dev)
+[![Skills](https://skillicons.dev/icons?1=githubactions,notion)](https://skillicons.dev)
 
 <table>
     <tr>
