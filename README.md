@@ -1,9 +1,7 @@
 # INFO
 
-<p align="left">
-    📢 Hey, welcome to my git! You can find all of my codes & university's projects here.
-    📋 Currently a Computer Science student at Instituto Federal Catarinense;
-    </p>
+📢 Hey, welcome to my git! You can find all of my codes & university's projects here.
+📋 Currently a Computer Science student at Instituto Federal Catarinense;
 
 ## 📬 Where you can find me:
 
@@ -12,9 +10,11 @@
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/aliceshigihara" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+    <img src="https://img.icons8.com/?size=100&id=38388&format=png&color=000000" alt="github"> Github
   </a>
 </p>
+
+## 
 
 <table>
     <tr>
