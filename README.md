@@ -6,9 +6,15 @@
 <p align="left">
     **📬 Where you can find me:**
     <p/>
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/aliceshigihara)
-&nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/aliceshigihara)
+
+<p>
+  <a href="https://www.linkedin.com/aliceshigihara" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/aliceshigihara" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 <table>
     <tr>
