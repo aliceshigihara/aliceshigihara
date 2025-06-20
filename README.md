@@ -10,7 +10,7 @@
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/aliceshigihara" rel="nofollow noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=38388&format=png&color=000000" alt="github"> Github
+    <img src="https://img.icons8.com/?size=100&id=38388&format=png&color=000000" alt="github" width=20> Github
   </a>
 </p>
 
