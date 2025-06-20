@@ -17,16 +17,12 @@
 
 [![Skills/Learning](https://skillicons.dev/icons?i=clion,idea,pycharm,vscode)](https://skillicons.dev)
 
-## Others:
-
-[![Skills](https://skillicons.dev/icons?1=githubactions,notion)](https://skillicons.dev)
-
 <table>
     <tr>
         <td>
             <img
             align="right"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceshigihara&languages=python,c,java"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceshigihara&languages=python,c,java&theme=dark"
             alt="Github Stats"
           />
      </td>
