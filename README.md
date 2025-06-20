@@ -5,9 +5,7 @@
     **📋 Currently a Computer Science student at Instituto Federal Catarinense;**
     </p>
 
-<p align="left">
-    **📬 Where you can find me:**
-    <p/>
+## 📬 Where you can find me:
 
 <p>
   <a href="https://www.linkedin.com/aliceshigihara" rel="nofollow noreferrer">
