@@ -14,7 +14,9 @@
   </a>
 </p>
 
-## 
+## Languages
+
+[![Skills/Learning](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
 <table>
     <tr>
