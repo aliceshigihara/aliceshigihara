@@ -5,7 +5,7 @@
         <td>
             <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceshigihara&hide=python,c,java&theme=tokyonight"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceshigihara&languages=python,c,java&theme=tokyonight"
             alt="Github Stats"
           />
      </td>
