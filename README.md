@@ -6,8 +6,9 @@
 <p align="left">
     **📬 Where you can find me:**
     <p/>
-[![Linkedin](https://img.shields.io/badge/-aliceshigihara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alice-shigihara-5497332a0/](https://www.linkedin.com/in/alice-shigihara-5497332a0/)
-    [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliceshigihara@gmail.com)](mailto:aliceshigihara@gmail.com)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/aliceshigihara)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/aliceshigihara)
 
 <table>
     <tr>
