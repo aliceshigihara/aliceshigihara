@@ -1,6 +1,4 @@
-<p width="80">
-    **ABOUT ME**
-    <p/>
+#ABOUT ME
 
 <p align="left">
     📢 Hey, welcome to my git! You can find all of my codes & university's projects here.
